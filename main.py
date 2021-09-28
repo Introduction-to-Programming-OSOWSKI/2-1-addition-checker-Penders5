@@ -4,6 +4,6 @@ def addCheck(x, y, z):
 
     #returning true/false statement
     if x + y == z:
-        return "true"
+        return "True"
     else:
-        return "false"
+        return "False"
